@@ -12,8 +12,7 @@ Superstore Executive Presentation
 https://public.tableau.com/shared/27CGRX7MD?:display_count=n&:origin=viz_share_link
 
 
-ChemCorp Analysis and Visualizations
-https://public.tableau.com/views/ChemCorpTableauCaseStudyDivyaGummadi/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+ChemCorp Analysis and Visualizations https://public.tableau.com/views/ChemCorpTableauCaseStudyDivyaGummadi/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Superstore Analysis and Visualizations
 https://public.tableau.com/views/SuperstoreAnalysisandVisualizations/Sheet8?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
