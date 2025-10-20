@@ -1,4 +1,4 @@
-# Data-Analytics-Project-Presentations
+# Data Analytics Project Presentations
 Bank Churn Analysis
 https://public.tableau.com/app/profile/divya.gogineni/viz/BankChurnAnalysisDivyaGummadi/Story1
 
